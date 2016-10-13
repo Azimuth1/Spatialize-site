@@ -1,0 +1,19 @@
+/* Customize container */
+
+@media (min-width: 800px) {
+    .container {
+        max-width: 950px;
+    }
+}
+.container-narrow > hr {
+    margin: 20px 0;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    border-top: 1px solid #FFF;
+    line-height: 60px;
+}

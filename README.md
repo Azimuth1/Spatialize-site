@@ -1,2 +1,1 @@
-# Spatialize-site
-Public website for Spatialize.it - 
+README.md
